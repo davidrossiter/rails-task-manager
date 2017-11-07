@@ -1,0 +1,129 @@
+body
+{
+    font-family: Montserrat;
+    font-weight: 400;
+
+    color: #2f384f;
+    background-color: #f8faff;
+}
+
+.container
+{
+    display: block;
+
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1
+{
+    font-weight: 600;
+
+    margin: 40px 0 40px 0;
+
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+a
+{
+    font-size: 16px;
+
+    text-decoration: none;
+
+    color: #000;
+}
+
+
+ul
+{
+    margin: 0 auto;
+    padding: 0;
+
+    list-style: none;
+}
+
+li
+{
+    line-height: 25px;
+
+    margin: 0 0 10px 0;
+}
+
+.checkbox-bg
+{
+    position: relative;
+
+    float: left;
+
+    width: 25px;
+    height: 25px;
+    margin: 0 15px 0 0;
+
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+p
+{
+    text-align: center;
+}
+
+.round-btn
+{
+    width: 25px;
+    height: 25px;
+    margin: 0 2px 0 2px;
+
+    border-radius: 50%;
+    background-color: #2f384f;
+}
+
+.round-btn i
+{
+    text-align: center;
+
+
+    color: #fff;
+}
+
+.checkbox-bg i
+{
+    color: #2f384f;
+    margin: 0 0 0 5px;
+}
+
+div
+{
+    display: inline-block;
+
+    height: 40px;
+}
+
+.fa-trash-o,
+.fa-pencil
+{
+    margin: 0 0 0 6px;
+}
+
+
+.go-back
+{
+    line-height: 40px;
+
+    display: block;
+
+    width: 40px;
+    height: 40px;
+    margin: 40px auto;
+
+    text-align: center;
+
+    border-radius: 50%;
+    background-color: #2f384f;
+}
+
+.go-back i
+{
+    color: #fff;
+}
